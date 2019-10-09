@@ -1,0 +1,40 @@
+city,lat,lng,Area_km2,country,iso2,admin,Population
+George Town,5.411229,100.335426,124,Malaysia,MY,Pulau Pinang,300000
+Kuala Lumpur,3.166667,101.7,243,Malaysia,MY,Kuala Lumpur ,1453975
+Johor Bahru,1.4655,103.7578,1064,Malaysia,MY,Johor,802489
+Butterworth,5.399102,100.363818,242,Malaysia,MY,Pulau Pinang,107591
+Melaka,2.196,102.2405,314,Malaysia,MY,Melaka,788706
+Ipoh,4.5841,101.0829,1305,Malaysia,MY,Perak,673318
+Kuching,1.416667,110.333333,754.33,Malaysia,MY,Sarawak,570407
+Kota Kinabalu,5.9749,116.0724,350,Malaysia,MY,Sabah,457326
+Kampong Baharu,6.116667,102.216667,433.8,Malaysia,MY,Kelantan,505583
+Shah Alam,3.083333,101.533333,290.3,Malaysia,MY,Selangor,481654
+Sandakan,5.8402,118.1179,2266,Malaysia,MY,Sabah,392288
+Kuantan,3.8077,103.326,2960,Malaysia,MY,Pahang,366229
+Kampung Sungai Pasir,5.615259,100.468041,84,Malaysia,MY,Kedah,358499
+Kuala Terengganu,5.3302,103.1408,210,Malaysia,MY,Terengganu,285065
+Alor Setar,6.121045,100.360137,423,Malaysia,MY,Kedah,217368
+Tawau,4.2498,117.8871,6125,Malaysia,MY,Sabah,306462
+Taiping,4.85,100.733333,2112,Malaysia,MY,Perak,217647
+Miri,4.4148,114.0089,997.4,Malaysia,MY,Sarawak,228212
+Sibu,2.3,111.816667,2229.8,Malaysia,MY,Sarawak,240165
+Batu Pahat,1.8548,102.9325,1872.58,Malaysia,MY,Johor,398014
+Muar,2.0442,102.5689,1376,Malaysia,MY,Johor,127897
+Kluang,2.0251,103.3328,2865,Malaysia,MY,Johor,169828
+Bintulu,3.166667,113.033333,7220,Malaysia,MY,Sarawak,151617
+Lahad Datu,5.0268,118.327,6501,Malaysia,MY,Sabah,105622
+Teluk Intan,4.0259,101.0213,126.9,Malaysia,MY,Perak,63353
+Cukai,4.25,103.416667,518,Malaysia,MY,Terengganu,82425
+Kangar,6.4414,100.198619,26.194,Malaysia,MY,Perlis,63869
+Raub,3.7899,101.857,977.2,Malaysia,MY,Pahang,40024
+Kuala Lipis,4.1842,102.0468,147,Malaysia,MY,Pahang,15448
+Klang,3.033333,101.45,573,Malaysia,MY,Selangor,879867
+Seremban,2.7297,101.9381,959,Malaysia,MY,Negeri Sembilan,372917
+Kampung Lemal,6.030211,102.141257,54,Malaysia,MY,Kelantan,10753
+Kuching,1.55,110.333333,431,Malaysia,MY,Sarawak,570407
+Ketereh,5.957008,102.24817,155.9,Malaysia,MY,Kelantan,41835
+Tumpat,6.197755,102.170976,169.5,Malaysia,MY,Kelantan,12280
+Victoria,5.276667,115.241667,19.47,Malaysia,MY,Labuan,73653
+Pasir Mas,6.049337,102.139873,614.15,Malaysia,MY,Kelantan,19017
+Kota Bharu,6.133275,102.238603,115.6,Malaysia,MY,Kelantan,314946
+Pulai Chondong,5.871332,102.231766,54.98,Malaysia,MY,Kelantan,12898
